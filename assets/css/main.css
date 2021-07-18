@@ -311,11 +311,6 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 		border-bottom: 2px solid transparent;
 	}
 
-	.main-nav__link:hover {
-		text-decoration: none;
-		border-color: #666;
-	}
-
 	.main-nav--right {
 		margin-left: auto;
 	}
